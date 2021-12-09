@@ -1,0 +1,196 @@
+newmtl AlleyGroundSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd aleeygorund_albedo.jpg
+bump aleeygorund_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl BackBuildingSetSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd building_albedo.jpg
+bump building_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl BodyBoatSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd bodyboat_albedo.jpg
+bump bodyboat_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl Bottl1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd Bottle_albedo.jpg
+bump Bottle_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl BuildingSetRightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd building2_albedo.jpg
+bump building2_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl FenceOnWaterSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd wall_albedo.jpg
+bump wall_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl GlassBoatSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd boatglass_albedo.jpg
+bump boatglass_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl GlassOnBuildingLeftSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd building3_albedo.jpg
+bump building3_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl GroundUnderwaterSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd ground_albedo.jpg
+bump ground_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl PaddleBoatSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd handle_albedo.jpg
+bump handle_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl PaddleHandleBoatSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd handlehanel_albedo.jpg
+bump handlehanel_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl PlantPot1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd Pot_albedo.jpg
+bump Pot_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl RocketBoat1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl RocketBoat2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd lambert3_albedo.jpg
+bump lambert3_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl Stool1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl WallTunnelSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd tunnel_albedo.jpg
+bump tunnel_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl WaterPlaneSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd water_albedo.jpg
+bump water_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl WireforFlagSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd Banner1_albedo.jpg
+bump Banner1_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl pCylinder29SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd Dome1_albedo.jpg
+bump Dome1_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl pasted__Plant1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd Plant1_albedo.jpg
+bump Plant1_normal.png -bm 1
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
